@@ -1,0 +1,3 @@
+# Car-Price-Analysis-Modeling
+
+The project's goal is to predict used automobile costs by considering price-related variables such as production year, car type, mileage, engine size, number of airbags, levies, and so on. Linear regression techniques were used to accomplish this. To create a model from the retrieved raw data, a pre-processing stage of data cleaning will be followed by the application of the linear regression concept- model selection and then train and test the model to ensure its correctness. To forecast used vehicle prices, we will create a linear regression model based on the accuracy of the findings.
